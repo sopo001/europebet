@@ -152,6 +152,9 @@ body {
     overflow-x: auto;
     scrollbar-width: none;
 }
+/* .cards ::-webkit-scrollbar {
+    width: none;
+} */
 
 .sec-3 .img1__card .img__1 {
     z-index: 0;
